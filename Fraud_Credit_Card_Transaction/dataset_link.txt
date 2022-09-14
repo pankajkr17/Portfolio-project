@@ -1,0 +1,4 @@
+initial commit
+
+Here is the link for the dataset to download:- https://www.kaggle.com/mlg-ulb/creditcardfraud/download
+It is a very basic project for detection of fraud credit card transactions.
