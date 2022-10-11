@@ -1,4 +1,4 @@
-#Business Context - Predicting fraudulent transactions for a financial company
+# Business Context - Predicting fraudulent transactions for a financial company
 
 This case requires trainees to develop a model for predicting fraudulent transactions for a
 financial company and use insights from the model to develop an actionable plan. Data for the
@@ -10,7 +10,7 @@ creativity/judgment. We recommend you spend time on both fine-tuning and interpr
 results of your machine learning model.
 
 
-##Implementing
+## Implementing
 If you are running on your local machine,
 Download the dataset: https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
 
